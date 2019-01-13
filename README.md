@@ -22,6 +22,6 @@ Ctrl+shift
 
 Alt
 
-![](screenshots/alt+shift.jpg)
+![](screenshots/shift+alt.jpg)
 
 Alt+shift
