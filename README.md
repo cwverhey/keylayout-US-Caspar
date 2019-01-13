@@ -6,17 +6,22 @@ Save to:
     /Library/Keyboard Layouts/
 
 ## Screenshots
-Base
 ![](screenshots/base.jpg)
 
-Ctrl
+Base
+
 ![](screenshots/ctrl.jpg)
 
-Ctrl+shift
+Ctrl
+
 ![](screenshots/shift+ctrl.jpg)
 
-Alt
+Ctrl+shift
+
 ![](screenshots/alt.jpg)
 
+Alt
+
+![](screenshots/alt+shift.jpg)
+
 Alt+shift
-![](screenshots/alt+ctrl.jpg)
