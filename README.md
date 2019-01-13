@@ -7,12 +7,16 @@ Save to:
 
 ## Screenshots
 Base
-<img src="screenshots/base.jpg">
+![]("screenshots/base.jpg")
+
 Ctrl
-<img src="screenshots/ctrl.jpg">
+![]("screenshots/ctrl.jpg")
+
 Ctrl+shift
-<img src="screenshots/shift+ctrl.jpg">
+![]("screenshots/shift+ctrl.jpg")
+
 Alt
-<img src="screenshots/alt.jpg">
+![]("screenshots/alt.jpg")
+
 Alt+shift
-<img src="screenshots/alt+ctrl.jpg">
+![]("screenshots/alt+ctrl.jpg")
